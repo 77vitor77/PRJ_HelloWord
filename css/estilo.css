@@ -1,0 +1,12 @@
+p{ /* seletor */
+color: rgb(211, 109, 40); /* Propiedade: valor*/
+}
+
+table
+{
+    border: 1px solid rgb(107, 17, 226);
+}
+    th,td
+{
+    border: 1px solid rgb(21, 73, 133);
+}
