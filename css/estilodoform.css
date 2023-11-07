@@ -1,0 +1,25 @@
+body{
+
+    margin: 2% 40%;
+    width: 40%;
+
+}
+
+fieldset {
+    padding: 2%;
+    background-color: #8953ff;
+    border: 3px solid rgb(26, 20, 114);
+}
+  
+legend{
+    background-color: rgb(252, 255, 58);
+    color: rgb(0, 0, 0);
+    padding: 5px 10px;
+}
+
+.elemento-form{
+
+    padding: 1.5%;
+
+}
+  
